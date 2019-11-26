@@ -8,7 +8,7 @@ cases.
 ## Publication
 Jingxuan Jiang, Chundong Wang, Sudipta Chattopadhyay, and Wei Zhang. *Road Context-aware Intrusion Detection System for Autonomous Cars*. In Proceedings of the 21st International Conference on Information and Communications Security (ICICS 2019). Beijing, China. December 2019.
 
-Paper link: <https://sudiptac.bitbucket.io/papers/ICICS19-RAIDS.pdf>
+Paper link: <https://asset-group.github.io/papers/ICICS19-RAIDS.pdf>
 
 ## Environment setting up.
 
