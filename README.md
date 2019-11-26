@@ -6,9 +6,9 @@ as intrusions. We have implemented a prototype of RAIDS with neural networks, an
 cases. 
 
 ## Publication
-RAIDS: Road Context-aware Intrusion Detection System for Autonomous Cars
+Jingxuan Jiang, Chundong Wang, Sudipta Chattopadhyay, and Wei Zhang. *Road Context-aware Intrusion Detection System for Autonomous Cars*. In Proceedings of the 21st International Conference on Information and Communications Security (ICICS 2019). Beijing, China. December 2019.
 
-Paper link:
+Paper link: <https://sudiptac.bitbucket.io/papers/ICICS19-RAIDS.pdf>
 
 ## Environment setting up.
 
