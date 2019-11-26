@@ -54,11 +54,11 @@ Paper link: <https://asset-group.github.io/papers/ICICS19-RAIDS.pdf>
  
 ## Dataset:
    
-  1. Udacity Inc. The Udacity open source self-driving car project, April 2018. https://github.com/udacity/self-driving-car
-  2. Udacity Inc. Udacity’s self-driving car simulator, July 2017.https://github.com/udacity/self-driving-car-sim
-  3. Apollo.auto. Roadhackers platform in Baidu Apollo project, April 2018. http://data.apollo.auto/static/pdf/road_hackers_en.pdf
-  4. Comma.ai. The Comma.ai driving dataset, October 2016. https://github.com/commaai/research.
-  5. Sully Chen. Sully Chen’s driving datasets (2017 & 2018), April 2018. https://github.com/SullyChen/driving-datasets.
+  1. Udacity Inc. The Udacity open source self-driving car project, April 2018. <https://github.com/udacity/self-driving-car>
+  2. Udacity Inc. Udacity’s self-driving car simulator, July 2017. <https://github.com/udacity/self-driving-car-sim>
+  3. Apollo.auto. Roadhackers platform in Baidu Apollo project, April 2018. <http://data.apollo.auto/static/pdf/road_hackers_en.pdf>
+  4. Comma.ai. The Comma.ai driving dataset, October 2016. <https://github.com/commaai/research>
+  5. Sully Chen. Sully Chen’s driving datasets (2017 & 2018), April 2018. <https://github.com/SullyChen/driving-datasets>
     
 ## Quick Start
     For example as commaai_data_try:
