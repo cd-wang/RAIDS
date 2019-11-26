@@ -3,7 +3,7 @@ Security is of primary importance to vehicles. RAIDS employs a lightweight machi
 images and distance sensor values) that are used to generate control signals for maneuvering the car. With such ongoing road context, RAIDS validates corresponding frames
 observed on the in-vehicle network. Anomalous frames that substantially deviate from the road context will be discerned
 as intrusions. We have implemented a prototype of RAIDS with neural networks, and conducted experiments on a Raspberry Pi with extensive datasets and meaningful intrusion
-cases. 
+cases.
 
 ## Publication
 Jingxuan Jiang, Chundong Wang, Sudipta Chattopadhyay, and Wei Zhang. *Road Context-aware Intrusion Detection System for Autonomous Cars*. In Proceedings of the 21st International Conference on Information and Communications Security (ICICS 2019). Beijing, China. 14-17 December 2019.
@@ -54,11 +54,11 @@ Paper link: <https://asset-group.github.io/papers/ICICS19-RAIDS.pdf>
  
 ## Dataset:
    
-    Udacity Inc. The Udacity open source self-driving car project, April 2018. https://github.com/udacity/self-driving-car
-    Udacity Inc. Udacity’s self-driving car simulator, July 2017.https://github.com/udacity/self-driving-car-sim
-    Apollo.auto. Roadhackers platform in Baidu Apollo project, April 2018. http://data.apollo.auto/static/pdf/road_hackers_en.pdf
-    Comma.ai. The Comma.ai driving dataset, October 2016. https://github.com/commaai/research.
-    Sully Chen. Sully Chen’s driving datasets (2017 & 2018), April 2018. https://github.com/SullyChen/driving-datasets.
+  1. Udacity Inc. The Udacity open source self-driving car project, April 2018. https://github.com/udacity/self-driving-car
+  2. Udacity Inc. Udacity’s self-driving car simulator, July 2017.https://github.com/udacity/self-driving-car-sim
+  3. Apollo.auto. Roadhackers platform in Baidu Apollo project, April 2018. http://data.apollo.auto/static/pdf/road_hackers_en.pdf
+  4. Comma.ai. The Comma.ai driving dataset, October 2016. https://github.com/commaai/research.
+  5. Sully Chen. Sully Chen’s driving datasets (2017 & 2018), April 2018. https://github.com/SullyChen/driving-datasets.
     
 ## Quick Start
     For example as commaai_data_try:
